@@ -163,7 +163,5 @@ work_dirs
 data
 data/*
 
-*.pth
-
 output
 final_ckpts
