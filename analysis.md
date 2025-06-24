@@ -31,3 +31,11 @@
 | :-------- | :---: | :----: | :----: | :---: | :---: | :---: |
 | Epoch 300 | 0.405 | 0.739  | 0.403  | 0.227 | 0.449 | 0.653 |
 | Epoch 200 | 0.416 | 0.748  | 0.421  | 0.246 | 0.463 | 0.616 |
+
+Diferenças utilizadas nesse projeto
+
+- arquivo de config para fine tune
+- script para conversão para dataset coco
+
+imagens de comparação na raiz do projeto
+arquivo de pesos em https://drive.google.com/file/d/17V6zcAZJiYOy27KVdXqUhQ3BGQqaIi2B/view?usp=sharing
