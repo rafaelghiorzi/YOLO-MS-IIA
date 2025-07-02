@@ -165,7 +165,4 @@ data/*
 
 output
 final_ckpts
-
 *.pth
-future.md
-minimal/
