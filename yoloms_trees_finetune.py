@@ -107,4 +107,4 @@ default_hooks = dict(
 )
 
 # Load pretrained weights for fine-tuning
-load_from = 'D:/UnB/IIA/YOLO-MS-IIA/pre-trained.pth'
+load_from = 'D:/UnB/IIA/YOLO-MS-IIA/pretrained.pth'
